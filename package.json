@@ -1,6 +1,6 @@
 {
   "name": "debug-logging-extensions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set of mixins for debug console logging",
   "main": "src/index.js",
   "scripts": {
@@ -23,5 +23,8 @@
   "homepage": "https://github.com/joshball/debug-logging-extensions",
   "dependencies": {
     "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "bucker": "^1.0.11"
   }
 }
