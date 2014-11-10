@@ -1,0 +1,27 @@
+{
+  "name": "debug-logging-extensions",
+  "version": "1.0.0",
+  "description": "Set of mixins for debug console logging",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logging",
+    "debug",
+    "console"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshball/debug-logging-extensions.git"
+  },
+  "author": "Joshua Ball <joshua.g.s.ball@gmail.com> (https://github.com/joshball/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshball/debug-logging-extensions/issues"
+  },
+  "homepage": "https://github.com/joshball/debug-logging-extensions",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
